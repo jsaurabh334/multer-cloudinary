@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.rect{
+ width: 500px;
+ height: 500px;
+ 
+ background-color: rgb(93, 38, 49);
+}
+.box{
+    display: flex;
+    align-items: center;
+}
+.a{
+    width: auto;
+    padding: 20px;
+}
